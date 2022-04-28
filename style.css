@@ -1,0 +1,2715 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+/* Reset browser default styles: */
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  font-weight: normal;
+  list-style: none;
+}
+
+/* ======================================================
+   General Rules 
+   ====================================================== */
+   
+Body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #E9DECF;
+}
+.layout {
+  width: 90%;
+  margin: 30px auto 30px auto;
+}
+
+img {
+  height: auto;
+}
+
+/* ======================================================
+   Home
+   ====================================================== */
+.Main {
+  position: relative;
+}
+
+.Img1 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img2 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img3 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img4 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img5 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img6 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img7 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img8 {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img9 {
+  margin: -30px 0px 0px 0px;
+}
+
+.P1{
+  text-align: Left; 
+  left: 0px;
+  top: 50px;
+  position: absolute;
+  padding: 0px;
+}
+
+.P1 li {
+  color: #e71b41;
+  margin: 0px;
+  width: 100%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P2 {
+  text-align: Left; 
+  left: 100px;
+  top: 175px;
+  position: absolute;
+  padding: 50px;
+}
+
+.P2 li {
+  color: #c62e92;
+  margin: auto;
+  width: 55%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P2 a {
+color: #c62e92;
+text-decoration: none;
+}
+
+.P2 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.P3 {
+  position: absolute;
+  right: -65px;
+  top: 550px;
+  text-align: Right;
+  padding: 50px;
+}
+
+.P3 li {
+  color: #5d2e4d;
+  margin: auto;
+  width: 100%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P4 {
+  position: absolute;
+  top: 725px;
+  text-align: Right;
+  right: 300px;
+  padding: 50px;
+}
+
+.P4 li {
+  color: #144881;
+  margin: auto;
+  width: 100%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P4 a {
+color: #144881;
+text-decoration: none;
+}
+
+.P4 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.P5 {
+  text-align: Left; 
+  left: -110px;
+  top: 950px;
+  position: absolute;
+  padding: 0px;
+}
+
+.P5 li {
+  color: #005a9d;
+  margin: auto;
+  width: 75%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P5 a {
+color: #005a9d;
+text-decoration: none;
+}
+
+.P5 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.P6 {
+  text-align: Left; 
+  left: 310px;
+  top: 1250px;
+  position: absolute;
+  padding: 50px;
+}
+
+.P6 li {
+  color: #028389;
+  margin: auto;
+  width: 90%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P6 a {
+color: #028389;
+text-decoration: none;
+
+}
+
+.P6 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+
+.P7 {
+  text-align: Right; 
+  right: -65px;
+  top: 1525px;
+  position: absolute;
+  padding: 50px;
+}
+
+.P7 li {
+  color: #53aa9f;
+  margin: auto;
+  width: 100%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P7 a {
+color: #53aa9f;
+text-decoration: none;
+}
+
+.P7 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.P8 {
+  text-align: Right; 
+  right: 300px;
+  top: 1775px;
+  position: absolute;
+  padding: 50px;
+}
+
+.P8 li {
+  color: #25c2e8;
+  margin: auto;
+  width: 80%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 18px;
+}
+
+.P9 {
+  text-align: Center; 
+  left: -70px;
+  top: 2075px;
+  position: absolute;
+  padding: 50px;
+}
+
+.P9 p {
+  color: black;
+  margin: auto;
+  width: 100%;
+  padding: 3px;
+  text-decoration: none;
+  font-family: Alegreya-Bold;
+  font-size: 24px;
+}
+
+/*
+======================================================
+ Warning popup
+ ====================================================== */
+.Modal {
+  z-index: 1;
+  display: block;
+  padding-top: 10px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.5);
+}
+.modalContent {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+.modal-inner { 
+  padding: 10px 10px; 
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.modal-close:hover,
+.modal-close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+/* Add Animation - Zoom in the Modal */
+.modalContent {
+  animation-name: zoom;
+  animation-duration: 0.7s;
+}
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+blink {
+    animation: 1s linear infinite condemned_blink_effect;
+}
+
+@keyframes condemned_blink_effect {
+  0% {
+    visibility: hidden;
+  }
+  50% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}
+
+/* ======================================================
+   Mental Health
+   ====================================================== */
+
+.Img1MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img2MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img3MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img4MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img5MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img6MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img7MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img8MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img9MH {
+  margin: -30px 0px 0px 0px;
+}
+
+.Mental {
+  width: 25%;
+ /*margin: 0px 0px;*/
+ position: absolute;
+  top: 50px;
+}
+
+.Mental a {
+color: black;
+text-decoration: none;
+}
+
+.Mental a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.Mental h1 {
+  color: #1E1915;
+  /* text-align: Left; */
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 46px;
+}
+
+.oneM {
+  color: #6ebe45;
+  text-align: Left; 
+  position: absolute;
+  top: 75px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.twoM {
+  color: #fba91a;
+  text-align: Left;
+  position: absolute;
+  top: 95px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.threeM {
+  color: #3bc6f3;
+  text-align: Left;
+  position: absolute;
+  top: 115px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.fourM {
+  color: Black;
+  text-align: Left;
+  position: absolute;
+  top: 155px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.Mental1 {
+  position: absolute;
+  top: 300px;
+}
+
+.Mental1 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /* margin: -550px -25px;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Mental2 {
+  position: absolute;
+  top: 655px;
+}
+
+.Mental2 p {
+  color: #1E1915;
+  width: 43%;
+  /*margin: 0px 680px;*/
+  margin: 0px -25px;
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Mental3 {
+  position: absolute;
+  top: 1125px;
+}
+
+.Mental3 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+
+}
+
+.Mental4 {
+  position: absolute;
+  top: 1625px;
+}
+
+.Mental4 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+
+}
+
+.Mental5 {
+  position: absolute;
+  top: 2275px;
+}
+
+.Mental5 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+
+}
+
+.Mental6 {
+  position: absolute;
+  top: 2775px;
+}
+
+.Mental6 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+
+}
+
+.Mental7 {
+  position: absolute;
+  top: 3250px;
+}
+
+.Mental7 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Mental8 {
+  position: absolute;
+  top: 3900px;
+}
+
+.Mental8 p {
+  color: #1E1915;
+  width: 60%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Mental9 {
+  position: absolute;
+  top: 4360px;
+}
+
+.Mental9 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+
+/* ======================================================
+   Gender Roles
+   ====================================================== */
+
+.Img1G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img2G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img3G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img4G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img5G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img6G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img7G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img8G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img9G {
+  margin: -30px 0px 0px 0px;
+}
+
+.Gender {
+width: 25%;
+ /*margin: 50px 50px;*/
+  position: absolute;
+  top: 50px;
+}
+
+.Gender a {
+color: black;
+text-decoration: none;
+}
+
+.Gender a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.Gender h1 {
+  color: #1E1915;
+  text-align: Left;
+  /*position: absolute;*/
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 46px;
+}
+
+.one {
+  color: #6ebe45;
+  text-align: Left; 
+  position: absolute;
+  top: 75px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.two {
+  color: #fba91a;
+  text-align: Left;
+  position: absolute;
+  top: 95px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.three {
+  color: #3bc6f3;
+  text-align: Left;
+  position: absolute;
+  top: 115px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.four {
+  color: Black;
+  text-align: Left;
+  position: absolute;
+  top: 155px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.Gender1 {
+  position: absolute;
+  top: 300px;
+}
+
+.Gender1 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /* margin: -550px -25px;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Gender2 {
+  position: absolute;
+  top: 850px;
+}
+
+.Gender2 p {
+  color: #1E1915;
+  width: 41%;
+  margin: 0px 715px;
+  /*margin: 100px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Gender3 {
+  position: absolute;
+  top: 1400px;
+}
+
+.Gender3 p {
+  color: #1E1915;
+  width: 37.5%;
+  margin: 0px 715px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Gender4 {
+  position: absolute;
+  top: 1750px;
+}
+
+.Gender4 p {
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  /* margin: -550px -25px;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Gender5 {
+  position: absolute;
+  top: 2150px;
+}
+
+.Gender5 p {
+  color: #1E1915;
+  width: 41%;
+  margin: 0px 715px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.Gender6 {
+  position: absolute;
+  top: 2550px;
+}
+
+.Gender6 p {
+  color: #1E1915;
+  width: 41%;
+  margin: 0px 715px;
+  /*margin: 250px 675px;*/
+  /*text-align: Right;*/
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+}
+
+
+/* ======================================================
+   Dichos
+   ====================================================== */
+
+.Img1V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img2V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img3V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img4V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img5V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img6V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img7V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img8V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img9V {
+  margin: -30px 0px 0px 0px;
+}
+
+.Valores {
+  width: 35%;
+ /*margin: 0px 0px;*/
+ position: absolute;
+  top: 50px;
+}
+
+.Valores a {
+color: black;
+text-decoration: none;
+}
+
+.Valores a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.Valores h1 {
+  color: #1E1915;
+  /* text-align: Left; */
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 46px;
+}
+
+.oneV {
+  color: #1E1915;
+  text-align: Left; 
+  position: absolute;
+  top: 75px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.Valores1 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -1750px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores1 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 105%;
+}
+
+.Valores1 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1750px;
+  padding: 5px;
+}
+
+.Valores1 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.Valores1:hover .tooltiptext {
+  visibility: visible;
+}
+
+.Valores2 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px 675px;
+  /*text-align: Left;*/
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -1550px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores2 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -50px;
+  right: 105%;
+}
+
+.Valores2 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1575px;
+  padding: 5px;
+}
+
+.Valores2 .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 100%; /* To the right of the tooltip */
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+}
+.Valores2:hover .tooltiptext {
+  visibility: visible;
+}
+
+.Valores3 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -1275px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores3 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -50px;
+  left: 105%;
+}
+
+.Valores3 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1600px;
+  padding: 5px;
+}
+
+.Valores3 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.Valores3:hover .tooltiptext {
+  visibility: visible;
+}
+
+.Valores4 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px 675px;
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -1050px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores4 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -50px;
+  right: 105%;
+}
+
+.Valores4 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1600px;
+  padding: 5px;
+}
+
+.Valores4 .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 100%; /* To the right of the tooltip */
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+}
+.Valores4:hover .tooltiptext {
+  visibility: visible;
+}
+
+.Valores5 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -25px;
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -725px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores5 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -50px;
+  left: 105%;
+}
+
+.Valores5 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1600px;
+  padding: 5px;
+}
+
+.Valores5 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.Valores5:hover .tooltiptext {
+  visibility: visible;
+}
+
+.Valores6 {
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px 675px;
+  text-align: Left;
+  padding: 0px;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 32px;
+  top: -425px;
+  /*border-bottom: 1px dotted black;*/
+}
+
+.Valores6 .tooltiptext {
+  visibility: hidden;
+  width: 675px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  right: 105%;
+}
+
+.Valores6 .tooltiptext p {
+text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 14px;
+  top: -1600px;
+  padding: 5px;
+}
+
+.Valores6 .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+}
+.Valores6:hover .tooltiptext {
+  visibility: visible;
+}
+
+
+/* ======================================================
+   Body Image
+   ====================================================== */
+
+.Body0 {
+width: 35%;
+ /*margin: 0px 0px;*/
+ position: absolute;
+top: 50px;
+}
+
+.Body0 a {
+color: black;
+text-decoration: none;
+}
+
+.Body0 a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.Body0 h1 {
+  color: #1E1915;
+  /* text-align: Left; */
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 46px;
+}
+
+.oneB {
+  color: #6ebe45;
+  text-align: Left; 
+  position: absolute;
+  top: 75px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.twoB {
+  color: #fba91a;
+  text-align: Left;
+  position: absolute;
+  top: 95px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.threeB {
+  color: #3bc6f3;
+  text-align: Left;
+  position: absolute;
+  top: 115px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.FourB {
+  color: #1E1915;
+  text-align: Left;
+  position: absolute;
+  top: 155px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+
+.Body1 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #1E1915;
+  position: absolute;
+  display: inline-block;
+  width: 10%;
+  margin: 0px -25px;
+  top:  275px;
+  text-align: Left;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay a {
+  text-decoration: none;
+  color: #fba91a; 
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  font-size: 20px;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body:hover .overlay a {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.Body2 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  color: #1E1915;
+  position: relative;
+  display: inline-block;
+  width: 65%;
+  margin: 0px 150px 0px;
+  top:  -2075px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in2 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in2:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay2 a {
+  font-family: Alegraya;
+  text-decoration: none;
+  font-size: 18px;
+  color: #fba91a; 
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body2:hover .overlay2 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body3 {
+  font-family: Alegraya;
+  color: #1E1915;
+  font-weight: Bold;
+  font-size: 26px;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  width: 50%;
+  margin: 0px 280px 0px;
+  top:  -2000px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in3 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in3:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay3 a {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 24px;
+  color: #6ebe45;
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body3:hover .overlay3 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body4 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 20px;
+  color: #1E1915;
+  position: relative;
+  display: inline-block;
+  width: 20%;
+  margin: 0px 1050px 0px;
+  top:  -2250px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in4 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in4:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay4 a {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #3bc6f3;
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body4:hover .overlay4 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body5 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 40%;
+  margin: 0px 150px 0px;
+  top:  -2000px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in5 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in5:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay5 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fba91a;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body5:hover .overlay5 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body6 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 40%;
+  margin: 0px -70px 0px;
+  top:  -2050px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in6 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in6:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay6 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+   font-family: Alegraya;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fba91a;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body6:hover .overlay6 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body7 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 26px;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 75%;
+  margin: 0px 275px 0px;
+  top:  -1875px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in7 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in7:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay7 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 26px;
+  color: #fba91a;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body7:hover .overlay7 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body8 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: right;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px -45px 0px;
+  top:  -1775px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in8 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in8:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay8 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+   font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #6ebe45;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body8:hover .overlay8 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body9 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 30%;
+  margin: 0px 850px 0px;
+  top:  -1850px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in9 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in9:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay9 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+   font-family: Alegraya;
+  font-weight: 700;
+  font-size: 36px;
+  color: #6ebe45;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body9:hover .overlay9 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body10 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 50%;
+  margin: 0px 50px 0px;
+  top:  -1675px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in10 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in10:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay10 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+   font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fba91a;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body10:hover .overlay10 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.Body11 {
+  font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  color: #1E1915;
+  width: 60%;
+    margin: 0px 50px 0px;
+  top:  -1575px;
+  padding: 0px;
+}
+
+.card {
+  border: none;
+}
+
+.blur-in11 {
+  transition: all 0.2s ease;
+  -webkit-filter: blur(0px);
+}
+
+.blur-in11:hover {
+  -webkit-filter: blur(50px);
+}
+
+.overlay11 a {
+  text-decoration: none;
+  position: absolute;
+  margin-left: auto;
+  margin-left: auto;
+  left: 0;
+  right: 0;
+   font-family: Alegraya;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fba91a;
+  text-align: center;
+  margin-top: 0em;
+  visibility: hidden;
+  opacity: 0;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+.card-body11:hover .overlay11 a {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* ======================================================
+   LGBTQA 
+   ====================================================== */
+
+.Img1L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img2L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img3L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img4L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img5L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img6L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img7L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img8L {
+  margin: -30px 0px 0px 0px;
+}
+
+.Img9L {
+  margin: -30px 0px 0px 0px;
+}
+
+.LGBTQA {
+  width: 35%;
+ /*margin: 0px 0px;*/
+ position: absolute;
+ top: 50px;
+}
+
+.LGBTQA a {
+color: black;
+text-decoration: none;
+}
+
+.LGBTQA a:hover {
+color: black;
+text-decoration: none;
+font-size: 24px;
+font-weight: bold;
+  
+}
+
+.LGBTQA h1 {
+  color: #1E1915;
+  /* text-align: Left; */
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 46px;
+}
+
+.oneL {
+  color: #6ebe45;
+  text-align: Left; 
+  position: absolute;
+  top: 75px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.twoL {
+  color: #fba91a;
+  text-align: Left;
+  position: absolute;
+  top: 95px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.threeL {
+  color: #3bc6f3;
+  text-align: Left;
+  position: absolute;
+  top: 115px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.fourL {
+  color: #1E1915;
+  text-align: Left;
+  position: absolute;
+  top: 155px;
+  margin: 0px -25px;
+  padding: 0px;
+  text-decoration: none;
+  font-family: HawthornW01-Regular;
+  font-size: 16px;
+}
+
+.LGBTQAP {
+  position: absolute;
+  top: 300px;
+}
+
+.module {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module h1{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: Center;
+  margin: 0px 450px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 300;
+  font-size: 18px;
+}
+.module h2{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: Center;
+  margin: 20px 450px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input {
+  display: none;
+}
+
+.toggle-label {
+  display: block;
+  width: 60%;
+  margin: 0px 250px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: Center;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+/*.toggle-label:hover {
+  background-color: #ccc;
+}*/
+.toggle-label:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input:checked ~ .toggle-content {
+  max-height: 1000px;
+}
+#toggle-input:checked + .toggle-label:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP1 {
+  position: absolute;
+  top: 650px;
+}
+
+.module1 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module1 h1{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 0px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module1 h2{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 20px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input1 {
+  display: none;
+}
+
+.toggle-label1 {
+  display: block;
+  width: 60%;
+  margin: 0px -40px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: left;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label1:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content1 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input1:checked ~ .toggle-content1 {
+  max-height: 1000px;
+}
+#toggle-input1:checked + .toggle-label1:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP2 {
+  position: absolute;
+  top: 1075px;
+}
+
+.module2 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module2 h1{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 0px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module2 h2{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 20px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input2 {
+  display: none;
+}
+
+.toggle-label2 {
+  display: block;
+  width: 50%;
+  margin: 0px 425px;
+  padding: 12px;
+  text-align: right;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label2:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content2 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input2:checked ~ .toggle-content2 {
+  max-height: 1000px;
+}
+#toggle-input2:checked + .toggle-label2:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP3 {
+  position: absolute;
+  top: 1450px;
+}
+
+.module3 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module3 h1{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 0px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module3 h2{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 20px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+.module3 h3{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 20px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input3 {
+  display: none;
+}
+
+.toggle-label3 {
+  display: block;
+  width: 60%;
+  margin: 0px -40px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: left;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label3:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content3 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input3:checked ~ .toggle-content3 {
+  max-height: 1000px;
+}
+#toggle-input3:checked + .toggle-label3:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP4 {
+  position: absolute;
+  top: 1850px;
+}
+
+.module4 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module4 h1{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 0px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module4 h2{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 20px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+.module4 h3{
+  width: 25%;
+  text-align: right;
+  margin: 0px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+#toggle-input4 {
+  display: none;
+}
+
+.toggle-label4 {
+  display: block;
+  width: 50%;
+  margin: 0px 450px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: right;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label4:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content4 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input4:checked ~ .toggle-content4 {
+  max-height: 1000px;
+}
+#toggle-input4:checked + .toggle-label4:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+
+.LGBTQAP5 {
+  position: absolute;
+  top: 2200px;
+}
+
+.module5 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module5 h1{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 0px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module5 h2{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 20px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 300;
+  font-size: 18px;
+}
+.module5 h3{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: left;
+  margin: 20px -20px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input5 {
+  display: none;
+}
+
+.toggle-label5 {
+  display: block;
+  width: 60%;
+  margin: 0px -40px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: left;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label5:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content5 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input5:checked ~ .toggle-content5 {
+  max-height: 1000px;
+}
+#toggle-input5:checked + .toggle-label5:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP6 {
+  position: absolute;
+  top: 2550px;
+}
+
+.module6 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module6 h1{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 0px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 100;
+  font-size: 18px;
+}
+.module6 h2{
+  /*border: 1px solid #ccc;*/
+  width: 25%;
+  text-align: right;
+  margin: 20px 800px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #6ebe45;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input6 {
+  display: none;
+}
+
+.toggle-label6 {
+  display: block;
+  width: 50%;
+  margin: 0px 450px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: right;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label6:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content6 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input6:checked ~ .toggle-content6 {
+  max-height: 1000px;
+}
+#toggle-input6:checked + .toggle-label6:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.LGBTQAP7 {
+  position: absolute;
+  top: 3200px;
+}
+
+.module7 {
+  /*border: 1px solid #ccc;*/
+  padding: 24px;
+}
+
+.module7 h1{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: Center;
+  margin: 0px 450px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 300;
+  font-size: 18px;
+}
+.module7 h2{
+  /*border: 1px solid #ccc;*/
+  width: 30%;
+  text-align: Center;
+  margin: 20px 450px;
+  text-decoration: none;
+  font-family: Alegraya;
+  color: #fba91a;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+#toggle-input7 {
+  display: none;
+}
+
+.toggle-label7 {
+  display: block;
+  width: 60%;
+  margin: 0px 250px;
+  /*cursor: pointer;*/
+  padding: 12px;
+  text-align: Center;
+  text-decoration: none;
+  font-family: Alegraya;
+  font-family: italic;
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.toggle-label7:after {
+  content: "(click me)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.toggle-content7 {
+  max-height: 0;
+  overflow: hidden;
+  -moz-transition: ease 0.3s max-height;
+  -o-transition: ease 0.3s max-height;
+  -webkit-transition: ease 0.3s max-height;
+  transition: ease 0.3s max-height;
+}
+
+#toggle-input7:checked ~ .toggle-content7 {
+  max-height: 1000px;
+}
+#toggle-input7:checked + .toggle-label7:after {
+  content: "(click again)"
+  font-weight: 300;
+  font-size: 14px;
+}
+
